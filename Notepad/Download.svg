@@ -1,0 +1,28 @@
+<svg width="158" height="19" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="21" width="160" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="449" width="1020"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill="#555" id="svg_10">
+   <g transform="matrix(1.1108961901441603,0,0,1.1108961901441603,0,0) " id="svg_4" shape-rendering="crispEdges">
+    <rect x="1.013929" y="0.352005" id="svg_5" fill="#555" height="20" width="85"/>
+    <rect y="0.352005" id="svg_6" fill="#007ec6" height="20" width="57" x="86.013929"/>
+   </g>
+   <g transform="matrix(1.1108961901441603,0,0,1.1108961901441603,0,0) " id="svg_7" font-size="110" text-rendering="geometricPrecision" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-anchor="middle" fill="#fff">
+    <text id="svg_8" textLength="750" fill="#fff" transform="translate(0,192.08909606933594) scale(0.10000000149011612) " y="-1777.370882" x="445.139294">latest release</text>
+    <text id="svg_9" textLength="470" fill="#fff" transform="translate(0,192.08909606933594) scale(0.10000000149011612) " y="-1777.370882" x="1135.139294">v1.4.8.0</text>
+   </g>
+  </g>
+  <rect id="svg_12" height="21" width="94" y="1" x="0.5" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <rect id="svg_13" height="19" width="61" y="0" x="96.5" stroke-width="1.5" fill="#007ec6"/>
+  <text stroke="null" transform="matrix(0.5866333900721601,0,0,0.4930934275017762,209.1875910078941,116.7819309047312) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="-205.938807" x="-315.837901" stroke-width="0" fill="#ffffff">记事本</text>
+  <text stroke="null" transform="matrix(0.5783082246780394,0,0,0.5320201158330206,226.39425390958786,109.79286795838657) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_15" y="-178.24043" x="-210.777313" stroke-width="0" fill="#ffffff">1.0.0.0</text>
+ </g>
+</svg>
